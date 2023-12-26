@@ -1,7 +1,7 @@
 # Memorable Password Generator
 #### Video Demo: https://youtu.be/gcRv55fBfPE
 #### Description
-The Memorable Password Generator is a versatile application that empowers users to create strong and memorable passwords effortlessly. It provides two modes: traditional random-character passwords and memorable word-based passwords.
+The Memorable Password Generator is a user-friendly application designed to empower individuals in creating robust and unforgettable passwords effortlessly. Offering a dual functionality, it caters to the need for both traditional random-character passwords and imaginative word-based passwords.
 
 #### What Issue Does It Solve?
 In an era where strong passwords are crucial, the Memorable Password Generator addresses the challenge of creating passwords that are not only robust but also easy to remember. Unlike auto-generated passwords that lack memorability, this tool allows users to craft passwords consisting of multiple words, adding a layer of security while ensuring ease of recall.
@@ -38,3 +38,6 @@ The application is built in C# using Windows Forms. Key components include:
 
 - **Clipboard Interaction:**
   - Enables users to easily copy generated passwords to the clipboard for quick usage.
+
+#### Future Improvements
+I would like to expand on the application to offer a wider variety of categories to choose from, and including modes for generating "SVO" type passwords (subject-verb-object). For instance: "BrownHorseDoingSickKarate" or "CutePandaEatingTastyCherries". The interface is also very basic still, as it's my first time working with the Windows Forms, and I'd like to implement a user interface that's more scalable and generally tidier and less "default".
